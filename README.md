@@ -20,7 +20,7 @@ Excel | Power Query | Power Pivot | Pivot Tables | Pivot Charts
 
 ## Dashboard Preview
 
-![Maven Market Dashboard](Maven_Market_Dashboard.png)
+![Maven Market Dashboard](Maven_Market_Dashboard.png.png)
 
 ## Key Skills
 Excel | Data Cleaning | Power Query | Power Pivot | Data Analysis | Data Visualization
